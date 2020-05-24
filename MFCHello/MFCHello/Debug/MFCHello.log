@@ -1,0 +1,38 @@
+﻿生成启动时间为 2020/5/23 10:54:07。
+     1>项目“c:\Users\guo_w\documents\visual studio 2013\Projects\MFCHello\MFCHello\MFCHello.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MFCHello.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCHello.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ChildFrm.cpp ClassView.cpp FileView.cpp MainFrm.cpp MFCHello.cpp MFCHelloDoc.cpp MFCHelloView.cpp OutputWnd.cpp PropertiesWnd.cpp ViewTree.cpp
+         ViewTree.cpp
+         PropertiesWnd.cpp
+         OutputWnd.cpp
+         MFCHelloView.cpp
+         MFCHelloDoc.cpp
+         MFCHello.cpp
+         MainFrm.cpp
+         FileView.cpp
+         ClassView.cpp
+         ChildFrm.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCHello.res" MFCHello.rc 
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\guo_w\documents\visual studio 2013\Projects\MFCHello\Debug\MFCHello.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\vs2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"c:\users\guo_w\documents\visual studio 2013\Projects\MFCHello\Debug\MFCHello.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\guo_w\documents\visual studio 2013\Projects\MFCHello\Debug\MFCHello.lib" /MACHINE:X86 Debug\MFCHello.res
+         Debug\ChildFrm.obj
+         Debug\ClassView.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\MFCHello.obj
+         Debug\MFCHelloDoc.obj
+         Debug\MFCHelloView.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+         MFCHello.vcxproj -> c:\users\guo_w\documents\visual studio 2013\Projects\MFCHello\Debug\MFCHello.exe
+     1>已完成生成项目“c:\Users\guo_w\documents\visual studio 2013\Projects\MFCHello\MFCHello\MFCHello.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.79
